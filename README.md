@@ -6,3 +6,4 @@ Part 1:[easy]
 1. Two Sum	
 7. Reverse Integer 
 9. Palindrome Number  
+461. Hamming Distance

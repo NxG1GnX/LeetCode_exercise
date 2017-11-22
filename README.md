@@ -1,5 +1,5 @@
 # LeetCode_exercise
-the first time coding exercise  of LeetCode with python3
+Coding exercise  of LeetCode with python3
 Directory is being updated
 
 Part 1:[easy]

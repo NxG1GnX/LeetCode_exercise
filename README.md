@@ -11,3 +11,4 @@ Directory is being updated
 - [657. Judge Route Circle](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-657-Judge%20Route%20Circle.py)
 - [561. Array Partition I](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-561-Array%20Partition%20I.py)
 - [476. Number Complement](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-476-Number%20Complement.py)
+- [557. Reverse Words in a String III](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-557-Reverse%20Words%20in%20a%20String%20III.py)

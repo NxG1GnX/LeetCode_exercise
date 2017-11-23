@@ -10,3 +10,4 @@ Directory is being updated
 - [728. Self Dividing Numbers](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-728-Self%20Dividing%20Numbers.py)
 - [657. Judge Route Circle](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-657-Judge%20Route%20Circle.py)
 - [561. Array Partition I](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-561-Array%20Partition%20I.py)
+- [476. Number Complement](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-476-Number%20Complement.py)

@@ -13,3 +13,4 @@ Directory is being updated
 - [8--476. Number Complement](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-476-Number%20Complement.py)
 - [9--557. Reverse Words in a String III](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-557-Reverse%20Words%20in%20a%20String%20III.py)
 - [10--500. Keyboard Row](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-500-Keyboard%20Row.py)
+- [11--344. Reverse String](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-344-Reverse%20String.py)

@@ -17,3 +17,4 @@ Directory is being updated
 - [12--682. Baseball Game](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-682-Baseball%20Game.py)
 - [13--575. Distribute Candies](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-575-Distribute%20Candies.py)
 - [14--412. Fizz Buzz](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-412-Fizz%20Buzz.py)
+- [15--566. Reshape the Matrix](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-566-Reshape%20the%20Matrix.py)

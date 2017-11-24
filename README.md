@@ -15,3 +15,4 @@ Directory is being updated
 - [10--500. Keyboard Row](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-500-Keyboard%20Row.py)
 - [11--344. Reverse String](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-344-Reverse%20String.py)
 - [12--682. Baseball Game](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-682-Baseball%20Game.py)
+- [13--575. Distribute Candies](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/%5Beasy%5D-575-Distribute%20Candies.py)

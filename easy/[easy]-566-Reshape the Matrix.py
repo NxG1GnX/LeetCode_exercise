@@ -16,6 +16,3 @@ class Solution:
                 L.append(num[m:n])
                 m,n = m + c,n + c
             return L
-                      
-        
-                        

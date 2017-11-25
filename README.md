@@ -1,7 +1,7 @@
 # LeetCode_exercise
-Coding exercise  of LeetCode with python3  
-Directory is being updated
-
+Coding exercise  of LeetCode with python3  
+Directory is being updated  
+use “ctrl+f” to search keyword
 ## Part 1:[easy]
 - [1--1. Two Sum](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-1-Two%20Sum.py)
 - [2--7. Reverse Integer](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-7-Reverse%20Integer.py) 

@@ -20,3 +20,4 @@ Directory is being updated
 - [15--566. Reshape the Matrix](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-566-Reshape%20the%20Matrix.py)
 - [16--463. Island Perimeter](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-463-Island%20Perimeter.py)
 - [17--496. Next Greater Element I](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-496-Next%20Greater%20Element%20I.py)
+- [18--521. Longest Uncommon Subsequence I](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-521-Longest%20Uncommon%20Subsequence%20I.py)

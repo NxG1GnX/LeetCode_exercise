@@ -23,3 +23,4 @@ use “ctrl+f” to search keyword
 - [18--521. Longest Uncommon Subsequence I](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-521-Longest%20Uncommon%20Subsequence%20I.py)
 - [19--292. Nim Game](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-292-Nim%20Game.py)
 - [20--693. Binary Number with Alternating Bits](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-693-Binary%20Number%20with%20Alternating%20Bits.py)
+- [21--485. Max Consecutive Ones](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-485-Max%20Consecutive%20Ones.py)

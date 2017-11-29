@@ -25,3 +25,4 @@ use “ctrl+f” to search keyword
 - [20--693. Binary Number with Alternating Bits](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-693-Binary%20Number%20with%20Alternating%20Bits.py)
 - [21--485. Max Consecutive Ones](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-485-Max%20Consecutive%20Ones.py)
 - [22--520. Detect Capital](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-520-Detect%20Capital.py)
+- [23--696. Count Binary Substrings](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-696-Count%20Binary%20Substrings.py)

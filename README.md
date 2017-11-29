@@ -30,4 +30,4 @@ use “ctrl+f” to search keyword
 - [25--717. 1-bit and 2-bit Characters](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-717-1-bit%20and%202-bit%20Characters.py)
 - [26--448. Find All Numbers Disappeared in an Array](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
 - [27--389. Find the Difference](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-389-Find%20the%20Difference.py)
-
+- [28--283. Move Zeroes](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-283-Move%20Zeroes.py)

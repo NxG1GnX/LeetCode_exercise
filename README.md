@@ -28,3 +28,4 @@ use “ctrl+f” to search keyword
 - [23--696. Count Binary Substrings](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-696-Count%20Binary%20Substrings.py)
 - [24--258. Add Digits](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-258-Add%20Digits.py)
 - [25--717. 1-bit and 2-bit Characters](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-717-1-bit%20and%202-bit%20Characters.py)
+- [26--448. Find All Numbers Disappeared in an Array](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)

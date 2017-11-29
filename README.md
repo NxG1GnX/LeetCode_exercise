@@ -27,3 +27,4 @@ use “ctrl+f” to search keyword
 - [22--520. Detect Capital](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-520-Detect%20Capital.py)
 - [23--696. Count Binary Substrings](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-696-Count%20Binary%20Substrings.py)
 - [24--258. Add Digits](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-258-Add%20Digits.py)
+- [25--717. 1-bit and 2-bit Characters](https://github.com/NxG1GnX/LeetCode_exercise/blob/master/easy/%5Beasy%5D-717-1-bit%20and%202-bit%20Characters.py)

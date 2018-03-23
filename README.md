@@ -1,5 +1,5 @@
 # LeetCode_exercise
-Coding exercise  of LeetCode with python3  
+Coding exercise of LeetCode with python3  
 Directory is being updated  
 use “ctrl+f” to search keyword
 ## Part 1:[easy]
